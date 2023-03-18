@@ -12,6 +12,6 @@ I code sometimes in my free time.
 
 ### ⭐ Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCDV-McDo&show_icons=true&theme=gotham)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGDev-McDo&show_icons=true&theme=gotham)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCDV-McDo&theme=gotham&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGDev-McDo&theme=gotham&layout=compact)
